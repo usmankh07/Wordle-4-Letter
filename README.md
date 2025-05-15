@@ -1,3 +1,27 @@
+# 4-Letter Wordle
+
+A fun word-guessing game where you have 6 attempts to guess a 4-letter word. Built with React and Vite.
+
+## How to Play
+
+1. You have 6 attempts to guess the 4-letter word
+2. Type your guess and press Enter
+3. After each guess, the tiles will change color:
+   - Green: Correct letter in correct position
+   - Yellow: Correct letter in wrong position
+   - Gray: Letter not in the word
+
+## Technologies Used
+
+- React
+- Vite
+- CSS3
+- GitHub Pages for deployment
+
+## Play the Game
+
+Visit: [https://usmankh07.github.io/Wordle-4-Letter/](https://usmankh07.github.io/Wordle-4-Letter/)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
